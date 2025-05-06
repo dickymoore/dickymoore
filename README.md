@@ -28,6 +28,8 @@ I'm a Platform Engineer and Squad circle Lead by day @bjss, also on the D & I te
 - 🎬 I’ve recently discovered screenwriting, and I’m hooked
 - 👨‍👧‍👦 I'm a dad of two teenagers
 - ⛰️ I'm in a group of confused dads who roam mountains, cliffs, coastlines and rivers
+- 👥 I founded the Bristol WinOps meetup
+- 🎮 I hosted a Global Games Jam
 - 📫 Want to collaborate or just say hi? DM me on [LinkedIn]([https://www.linkedin.com/in/dickymoore](https://www.linkedin.com/in/dicky-moore-b20ab3112/)/)
 
 ### Certifications
