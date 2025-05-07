@@ -37,7 +37,7 @@ I'm a Platform Engineer and Squad circle Lead by day @bjss, also on the D & I te
 - AWS Certified Solutions Architect - Associate
 - AWS Certified AI Practitioner
 - AWS Certified Cloud Practitioner
-- AWS Certified Machine Learning Engineer –Associate
+- AWS Certified Machine Learning Engineer - Associate
 - KCNA - Kubernetes and Cloud Native Associate
 - Certified Chef Developer Basic Chef Fluency Badge
 - Databricks Generative AI Fundamentals
